@@ -8,4 +8,6 @@ To start:
 
 *visist https://zerotomastery.io/ for more*
 
+## Add `script.test.js` as my own unit test exercise 
+
 
